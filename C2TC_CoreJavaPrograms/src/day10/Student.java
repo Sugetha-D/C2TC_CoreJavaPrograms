@@ -24,4 +24,9 @@ public class Student {
 	public void setName(String name) {
 		this.name = name;
 	}
+
+	public void setMarks(int[] marks) {
+		// TODO Auto-generated method stub
+		
+	}
 }
